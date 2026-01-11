@@ -15,7 +15,7 @@ breadth1=int(input("Enter the breadth of the Rectangle1: "))
 rect1=Rectangle(length1,breadth1)
 print(f"The area of Rectangle 1 is: {rect1.area()}")
 
-print("Rectangle 1")
+print("Rectangle 2")
 length2=int(input("Enter the length of the Rectangle2: "))
 breadth2=int(input("Enter the breadth of the Rectangle2: "))
 rect2=Rectangle(length2,breadth2)
